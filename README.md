@@ -6,8 +6,7 @@ Spits out `lib_name.docset` which you can cmd-click to install into Dash.
 
 Requirements:
 
-- You must have `doc2dash` installed (homebrew has it)
-- `pip install sphinx`
+- `pip install doc2dash sphinx`
 - The library's source is available on GitHub
 - The library keeps its docs in `docs/`
   - with a make target called `html`
